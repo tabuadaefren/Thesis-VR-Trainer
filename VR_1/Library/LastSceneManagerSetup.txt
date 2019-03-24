@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Mill/Augmented Sample 1 from VRTK.unity
+  isLoaded: 1
+  isActive: 1
